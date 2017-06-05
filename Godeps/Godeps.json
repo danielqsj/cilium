@@ -1,6 +1,6 @@
 {
 	"ImportPath": "github.com/cilium/cilium",
-	"GoVersion": "go1.7",
+	"GoVersion": "go1.8",
 	"GodepVersion": "v79",
 	"Packages": [
 		"./..."
@@ -104,38 +104,38 @@
 		},
 		{
 			"ImportPath": "github.com/coreos/etcd/auth/authpb",
-			"Comment": "v3.1.0",
-			"Rev": "8ba2897a21e4fc51b298ca553d251318425f93ae"
+			"Comment": "v3.1.8",
+			"Rev": "d267ca9c184e953554257d0acdd1dc9c47d38229"
 		},
 		{
 			"ImportPath": "github.com/coreos/etcd/clientv3",
-			"Comment": "v3.1.0",
-			"Rev": "8ba2897a21e4fc51b298ca553d251318425f93ae"
+			"Comment": "v3.1.8",
+			"Rev": "d267ca9c184e953554257d0acdd1dc9c47d38229"
 		},
 		{
 			"ImportPath": "github.com/coreos/etcd/clientv3/concurrency",
-			"Comment": "v3.1.0",
-			"Rev": "8ba2897a21e4fc51b298ca553d251318425f93ae"
+			"Comment": "v3.1.8",
+			"Rev": "d267ca9c184e953554257d0acdd1dc9c47d38229"
 		},
 		{
 			"ImportPath": "github.com/coreos/etcd/etcdserver/api/v3rpc/rpctypes",
-			"Comment": "v3.1.0",
-			"Rev": "8ba2897a21e4fc51b298ca553d251318425f93ae"
+			"Comment": "v3.1.8",
+			"Rev": "d267ca9c184e953554257d0acdd1dc9c47d38229"
 		},
 		{
 			"ImportPath": "github.com/coreos/etcd/etcdserver/etcdserverpb",
-			"Comment": "v3.1.0",
-			"Rev": "8ba2897a21e4fc51b298ca553d251318425f93ae"
+			"Comment": "v3.1.8",
+			"Rev": "d267ca9c184e953554257d0acdd1dc9c47d38229"
 		},
 		{
 			"ImportPath": "github.com/coreos/etcd/mvcc/mvccpb",
-			"Comment": "v3.1.0",
-			"Rev": "8ba2897a21e4fc51b298ca553d251318425f93ae"
+			"Comment": "v3.1.8",
+			"Rev": "d267ca9c184e953554257d0acdd1dc9c47d38229"
 		},
 		{
 			"ImportPath": "github.com/coreos/etcd/pkg/tlsutil",
-			"Comment": "v3.1.0",
-			"Rev": "8ba2897a21e4fc51b298ca553d251318425f93ae"
+			"Comment": "v3.1.8",
+			"Rev": "d267ca9c184e953554257d0acdd1dc9c47d38229"
 		},
 		{
 			"ImportPath": "github.com/coreos/go-iptables/iptables",
@@ -463,6 +463,10 @@
 		{
 			"ImportPath": "github.com/hashicorp/go-cleanhttp",
 			"Rev": "875fb671b3ddc66f8e2f0acc33829c8cb989a38d"
+		},
+		{
+			"ImportPath": "github.com/hashicorp/go-version",
+			"Rev": "03c5bf6be031b6dd45afec16b1cf94fc8938bc77"
 		},
 		{
 			"ImportPath": "github.com/hashicorp/hcl",
